@@ -8,8 +8,7 @@
 
 My CV: [Artyom Pak.pdf](https://drive.google.com/uc?export=download&id=1IBOnjGecWz0TJivTQjBXk1hUbpRU54-1)
 
+## 🤝 Connect with me
 
-<!---
-gotemapak/gotemapak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Email](https://img.shields.io/badge/ttema93@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttema93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artyompak/)
