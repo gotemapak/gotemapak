@@ -6,7 +6,7 @@
 - ✍️ I share my thoughts and experiences on [my Telegram blog (in Russian)](https://t.me/temapak).
 - 📫 Feel free to reach out to me via email: [hi.temapak@gmail.com](mailto:hi.temapak@gmail.com).
 
-My CV: [Artyom Pak.pdf](https://drive.google.com/uc?export=download&id=1IBOnjGecWz0TJivTQjBXk1hUbpRU54-1)
+My CV: [Artyom Pak.pdf](https://drive.google.com/uc?export=download&id=1XdiYhkt1tOmDsnZJpHsIOysaQA5KaJOL)
 
 ## 🤝 Connect with me
 
