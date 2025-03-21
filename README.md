@@ -1,6 +1,6 @@
 # Hi there, 👋 I'm Artyom
 
-- 🌍 I live in Antalya, Turkey.
+- 🌍 Right now: in Antalya, Turkey.
 - 💼 I'm currently working at [Bright Apps](https://apps.apple.com/tr/app/bright-english-for-beginners/id1258621855).
 - 💻 I have over [9 years](https://www.linkedin.com/in/artyompak/) of experience in product managment, primarily in startups. First 5 as PMM, last 4 as PM
 - ✍️ I share my thoughts and experiences on [my Telegram blog (in Russian)](https://t.me/temapak).
