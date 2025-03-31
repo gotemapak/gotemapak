@@ -8,5 +8,5 @@ My CV: [Artyom Pak.pdf](https://drive.google.com/uc?export=download&id=1XdiYhkt1
 
 ## 🤝 Connect with me
 
-[![Email](https://img.shields.io/badge/ttema93@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttema93@gmail.com)
+[![Email](https://img.shields.io/badge/hi.temapak@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi.temapak@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artyompak/)
